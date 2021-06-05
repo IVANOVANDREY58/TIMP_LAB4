@@ -1,6 +1,6 @@
 /**
 * @file exception.h
-* @author Иванов А. И.
+* @author Иванов А.И.
 * @version 1.0
 * @brief Описание класса exc
 * @date 01.06.2021
