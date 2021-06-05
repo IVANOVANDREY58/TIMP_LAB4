@@ -3,7 +3,7 @@
 * @author Иванов А.И.
 * @version 1.0
 * @brief Описание класса Shifr
-* @date 27.05.2021
+* @date 01.06.2021
 * @copyright ИБСТ ПГУ
 */
 #pragma once
