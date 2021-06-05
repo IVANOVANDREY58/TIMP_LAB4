@@ -1,6 +1,6 @@
 /**
 * @file modAlphaCipher.h
-* @author Иванов А. И.
+* @author Иванов А.И.
 * @version 1.0
 * @brief Описание класса modAlphaCipher
 * @date 01.06.2021
